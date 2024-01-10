@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hey there 👋, I'm Siyona!
+- 👩‍🎓 I'm currently intending to major in Data Science at University of California - Berkeley
+- 👩‍💻 I'm currently looking for research or internship opportunities
+- 🌱 I'm currently learning new DS tools!
+- 📬 Reach me at: siyona.sarma@berkeley.edu
+- ❓ Ask me about anything!
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://studentunion.berkeley.edu/wp-content/uploads/2021/01/Sather-tower-1920x1080-1.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://studentunion.berkeley.edu/wp-content/uploads/2021/01/Sather-tower-1920x1080-1.png">
+ <img alt="UC Berkeley Logo" src="https://p7.hiclipart.com/preview/120/679/637/5bfc89a82f291-thumbnail.jpg](https://studentunion.berkeley.edu/wp-content/uploads/2021/01/Sather-tower-1920x1080-1.png)">
+</picture>
 <!--
 **niyosas/niyosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
