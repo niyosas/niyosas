@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Siyona!
-- 👩‍🎓 I'm currently intending to major in Data Science at University of California - Berkeley
-- 👩‍💻 I'm currently looking for research or internship opportunities
+- 👩‍🎓 I'm an intended Data Science major at University of California - Berkeley
+- 👩‍💻 I'm looking for research or internship opportunities
 - 🌱 I'm currently learning new DS tools!
 - 📬 Reach me at: siyona.sarma@berkeley.edu
 - ❓ Ask me about anything!
