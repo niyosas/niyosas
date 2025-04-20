@@ -1,5 +1,5 @@
 ## Hey there 👋, I'm Siyona!
-- 👩‍🎓 I'm an intended Computer Science major at University of California - Berkeley
+- 👩‍🎓 I'm a Computer Science major at University of California - Berkeley
 - 👩‍💻 I'm looking for research or internship opportunities
 - 🌱 I'm currently learning new CS tools!
 - 📬 Reach me at: siyona.sarma@berkeley.edu
